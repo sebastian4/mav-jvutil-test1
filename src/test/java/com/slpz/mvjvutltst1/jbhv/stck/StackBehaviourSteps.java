@@ -1,4 +1,4 @@
-package com.slpz.mvjvutltst1;
+package com.slpz.mvjvutltst1.jbhv.stck;
 
 import java.util.Stack;
 import junit.framework.Assert;
